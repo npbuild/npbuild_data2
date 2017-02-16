@@ -1,0 +1,4 @@
+﻿<http://datadock.io/npbuild/npbuild_data2/id/dataset/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <http://datadock.io/npbuild/npbuild_data2/metadata>.
+<http://datadock.io/npbuild/npbuild_data2/id/dataset/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "NetworkedPlanet" <http://datadock.io/npbuild/npbuild_data2/metadata>.
+<http://datadock.io/npbuild/npbuild_data2/id/dataset/publisher> <http://xmlns.com/foaf/0.1/homepage> <http://networkedplanet.com/> <http://datadock.io/npbuild/npbuild_data2/metadata>.
+<http://datadock.io/npbuild/npbuild_data2/id/dataset/publisher> <http://xmlns.com/foaf/0.1/name> "NetworkedPlanet" <http://datadock.io/npbuild/npbuild_data2/metadata>.
